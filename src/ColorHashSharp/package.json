@@ -1,0 +1,14 @@
+{
+  "name": "com.fernandezja.color-hash-sharp",
+  "version": "0.1.0",
+  "displayName": "Color Hash Sharp",
+  "description": "Color Hash Sharp",
+  "keywords": [
+    "Color Hash Sharp"
+  ],
+  "author": {
+    "name": "fernandezja"
+  },
+  "dependencies": {
+  }
+}
